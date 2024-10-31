@@ -1,7 +1,0 @@
-Creare un programa que permita cargar 50 valores aleatorios de 4 digitos e imprimirlos en pantalla
-Para cada valor calcular cuantos digitos son impares y cuantos pares (emitir en un mensaje el total de ambos)
-cargar los valores en una lista implementada como COLA, unicamente los valores con 3 digitos impares (ni mas ni menos)
-Los nodos de la cola deben poseer un valor entero y un puntero al anterior
-Imprimir la lista en pantalla y guardarla en el archivo COLAPRIMOS.txt
-Funciones a eleccion 
-PROHIBIDO UTILIZAR LA LIBRERIA QUEUE, los metodos asociados a la cola deben ser creados manualmente (push para agregar elementos, front para ver el primer elemento y back para ver el ultimo elemento, pop para borrar el elemento al frente, isempty,etc)
