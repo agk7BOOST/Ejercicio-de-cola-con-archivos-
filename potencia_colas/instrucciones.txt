@@ -1,0 +1,19 @@
+El programa debe:
+-Generar un archivo poten.dat, el cual contendra dos valores por registro (X, Y)
+-X debe ser del tipo real, entre los valores 2 a 300 y con 3 decimales (debe ser verificado)
+-Y debe ser de tipo entero, del 2 al 50 
+-Generar 50 registros de forma automatica para guardar en el archivo.
+-Los datos del archivo, deben ser leidos y cargados a una lista tipo cola (No se puede usar la libreria queue)
+-Imprimir la cola 
+-Para cada registro, calcular X^Y e imprimirlo a la derecha de los dos valores X e Y
+
+ejemplo de como se va cargar el archivo en un inicio:
+2.000 4
+3.000 2
+1.000 10
+
+
+ejemplo de la impression en pantalla:
+2.000 4 16.000
+3.000 2 9.000
+1.000 10 1.000
